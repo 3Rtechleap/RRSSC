@@ -1,0 +1,24 @@
+@media screen and (max-width: 480px) {
+    .pc-logo {
+        display: none;
+    }
+    .mobile-logo {
+        display: inline-block;
+    }   
+}
+@media screen and (max-width: 780px) {
+    .pc-logo {
+        display: none;
+    }
+    .mobile-logo {
+        display: inline-block;
+    }   
+}
+@media screen and (max-width: 1080px) {
+    .pc-logo {
+        display: none;
+    }
+    .mobile-logo {
+        display: inline-block;
+    }   
+}

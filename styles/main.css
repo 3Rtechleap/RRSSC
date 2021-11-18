@@ -1,0 +1,26 @@
+.fixed-top {
+    top: -40px;
+    transform: translateY(40px);
+    transition: transform .3s;
+}
+.checker{
+    margin-bottom: 1000px;
+}
+.navbar-brand h1{
+    display: inline-block;
+}
+.pc-logo{
+    display: block;
+}
+.mobile-logo{
+    display: none;
+}
+.container-fluid{
+    color: red;
+    background-image: url("/assets/motto-background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.motto-text{
+    width: 400px;
+}
